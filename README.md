@@ -1,6 +1,6 @@
 # EV Battery Manufacturing Site Selection
 
-**Python | Machine Learning | Michigan Ross Datathon 2026 — Runner-Up**
+**Python | Machine Learning | Michigan Ross Datathon 2026 —**
 
 Data-driven site selection study for a hypothetical $5B EV battery manufacturing investment across all 50 US states. Built under competition conditions, scored Runner-Up at the Michigan Ross Datathon 2026.
 
@@ -66,4 +66,4 @@ ev-battery-site-selection/
 
 ---
 
-*Submitted to the 2026 Michigan Ross Datathon. Team 43.*
+*Submitted to the 2026 Michigan Ross Datathon.*
