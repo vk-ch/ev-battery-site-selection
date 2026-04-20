@@ -1,0 +1,19 @@
+Feature Name,Association,Correlation,Importance (%),Calculation,Tax Code,Time Period
+gas_tax_cagr,POSITIVE,0.341,14.0,CAGR,T13,2015-2024
+income_tax_cagr,NEGATIVE,-0.479,11.6,CAGR,T40,2015-2024
+gdp_manufacturing,POSITIVE,0.198,11.1,Average,,2020-2024
+utilities_tax_amount,NEGATIVE,-0.121,11.0,Average,T15,2020-2024
+population,POSITIVE,0.127,10.0,Average,,2020-2024
+corporate_tax_cagr,NEGATIVE,-0.289,8.9,CAGR,T41,2015-2024
+utilities_tax_cagr,NEGATIVE,-0.139,8.8,CAGR,T15,2015-2024
+gdp_transport_warehousing,POSITIVE,0.114,8.0,Average,,2020-2024
+gdp_utilities,POSITIVE,0.078,7.5,Average,,2020-2024
+corporate_tax_amount,NEGATIVE,-0.096,6.0,Average,T41,2020-2024
+sales_tax_cagr,POSITIVE,0.080,5.3,CAGR,T09,2015-2024
+gas_tax_amount,POSITIVE,0.109,4.7,Average,T13,2020-2024
+unemployment_rate,POSITIVE,0.153,4.6,Average,,2020-2024
+sales_tax_amount,POSITIVE,0.118,3.9,Average,T09,2020-2024
+income_tax_amount,NEGATIVE,-0.065,2.9,Average,T40,2020-2024
+personal_income,POSITIVE,0.053,2.3,Average,,2020-2024
+no_income_tax_bonus,POSITIVE,,3.0,Binary Flag,,
+no_corporate_tax_bonus,POSITIVE,,3.0,Binary Flag,,

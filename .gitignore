@@ -1,0 +1,6 @@
+# Raw competition datasets (large) — see report/ for data sources
+*.zip
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
